@@ -1,2 +1,2 @@
 # HrmsProject
-Human Resources Management System project with spring boot
+Human Resources Management System Project with Spring Boot
